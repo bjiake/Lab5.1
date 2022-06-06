@@ -166,7 +166,7 @@ namespace lab5
                 {
                     break;
                 }
-                else
+                else//asdf
                 {
                     Console.WriteLine("\nFile not found. Try again.\n");
                 }
